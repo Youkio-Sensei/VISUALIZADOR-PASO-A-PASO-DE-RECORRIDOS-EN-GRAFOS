@@ -2,13 +2,13 @@
 Este proyecto es una aplicación de escritorio desarrollada en NetBeans en lenguaje Java que permite visualizar y analizar recorridos en estructuras de datos de tipo grafo. La aplicación facilita el aprendizaje de la Teoría de Grafos y algoritmos de búsqueda como Dijkstra, mediante una interfaz gráfica interactiva que muestra el recorrido paso a paso.
 
 # Características
-Agregar vértices al grafo
-Eliminar vértices
-Agregar aristas con peso
-Eliminar aristas
-Visualización gráfica del grafo
-Registro de eventos (log)
-Cálculo del camino más corto
+* Agregar vértices al grafo
+* Eliminar vértices
+* Agregar aristas con peso
+* Eliminar aristas
+* Visualización gráfica del grafo
+* Registro de eventos (log)
+* Cálculo del camino más corto
 
 # Requisitos
 Antes de ejecutar el proyecto necesitas:
